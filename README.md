@@ -1,2 +1,2 @@
-# RPi-shutdown
-Shutdown button for Raspberry Pi
+# Shutdown button for Raspberry Pi
+
